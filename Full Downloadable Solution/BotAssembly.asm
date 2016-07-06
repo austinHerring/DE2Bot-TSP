@@ -1,17 +1,3 @@
-; StartingCodeWithLog.asm
-; Created by Kevin Johnson
-; (no copyright applied; edit freely, no attribution necessary)
-; This program includes:
-; - Wireless position logging using timer interrupt
-; - Subroutines for
-; -- 16x16 signed multiplication
-; -- 16/16 signed division
-; -- Arctangent (in appropriate robot units)
-; -- Distance (L2 norm) approximation
-; - Example of using tables (ILOAD, ISTORE)
-; - Additional misc. examples
-
-
 ;***************************************************************
 ;* Jump Table
 ;***************************************************************
